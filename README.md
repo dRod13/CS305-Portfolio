@@ -6,7 +6,9 @@ This portfolio documents my software security work for Artemis Financial in CS 3
 
 ## Portfolio artifact
 
-[Artemis Financial Practices for Secure Software Report](CS305_Project_Two_Report_Dayron_Rodriguez.docx)
+[View report as PDF](CS305_Project_Two_Report_Dayron_Rodriguez.pdf)
+
+[Download the Word document](CS305_Project_Two_Report_Dayron_Rodriguez.docx)
 
 The report includes the implementation discussion and screenshots. It describes a classroom application and its remaining security limitations; it is not a production deployment.
 
